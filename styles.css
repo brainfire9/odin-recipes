@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Aboreto ;
+    src: url(./fonts/Aboreto-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "PT Sans" ;
+    src: url(./fonts/PTSans-Regular.ttf) format('truetype');
+    /*src: url(./fonts/PTSans-Italic.ttf) format('truetype');*/
+}
+
+@font-face {
+    font-family: AnekTelugu;
+    src: url(./fonts/AnekTelugu-VariableFont.ttf) format('truetype');
+}
+html {
+    background: linear-gradient(180deg, #D7D6D6, #fdfdfd);
+    background-repeat: no-repeat;
+}
+h1 {
+    font-family: Aboreto, "Times New Roman" ;
+}
+h2 {
+    font-family: "PT Sans", sans-serif;
+}
+
+p, li {
+    font-family: AnekTelugu, sans-serif;
+    font-size: 1.13rem;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
