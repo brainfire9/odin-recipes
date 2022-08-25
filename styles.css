@@ -29,8 +29,17 @@ p, li {
     font-size: 1.13rem;
 }
 
-img {
+.recipe-picture {
     height: 300px;
     width: auto;
 }
 
+.center-text {
+    text-align: center;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
