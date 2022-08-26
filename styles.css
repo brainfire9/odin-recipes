@@ -17,8 +17,12 @@ html {
     background: linear-gradient(180deg, #D7D6D6, #fdfdfd);
     background-repeat: no-repeat;
 }
+body {
+    margin: 25px 75px;
+}
 h1 {
     font-family: Aboreto, "Times New Roman" ;
+    font-size: 2.5rem;
 }
 h2 {
     font-family: "PT Sans", sans-serif;
@@ -27,6 +31,12 @@ h2 {
 p, li {
     font-family: AnekTelugu, sans-serif;
     font-size: 1.13rem;
+}
+
+#back-hand {
+    width: 100px;
+    height: auto;
+    /*margin-left: -20px;*/
 }
 
 .recipe-picture {
