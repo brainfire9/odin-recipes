@@ -14,7 +14,7 @@
     src: url(./fonts/AnekTelugu-VariableFont.ttf) format('truetype');
 }
 html {
-    background: linear-gradient(180deg, #D7D6D6, #fdfdfd);
+    background: linear-gradient(0deg, #D7D6D6, #fdfdfd);
     background-repeat: no-repeat;
 }
 body {
